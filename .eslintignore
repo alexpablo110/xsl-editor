@@ -1,0 +1,8 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/*eslint linebreak-style: ["error", "unix"]*/
+/* eslint import/newline-after-import: "off" */
+/* eslint-disable */
